@@ -3,6 +3,14 @@
 	margin-right: 20%;
 	margin-top: 50px;
 	margin-bottom: 50px;
-	padding: 10px;
+	padding: 15px;
 	box-shadow: 0px 0px 10px #888888;
+}
+
+h6 {
+	text-align: right;
+}
+
+p {
+	text-align: justify;
 }
